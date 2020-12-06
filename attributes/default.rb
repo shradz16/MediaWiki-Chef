@@ -1,0 +1,10 @@
+default['mediawiki']['version'] = '1.35.0'
+default['mediawiki']['apps'] = 'mediawiki'
+default['mediawiki']['db'] = 'mediawiki_db'
+default['mediawiki']['db_user'] = 'wiki_user'
+default['mediawiki']['db_password'] = 'mysecurepassword'
+default['mediawiki']['db_server'] = 'localhost'
+default['mediawiki']['apps_server'] = 'localhost'
+default['mediawiki']['title'] = 'table_mediawiki'
+default['mediawiki']['link'] = 'https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0.tar.gz'
+
